@@ -77,7 +77,7 @@ async def send_receive():
                         # -- iterate each word , then assess last char
                         print(split_sentence)
                         for index, word in enumerate(split_sentence):
-                            print(f"word: {word}, index: {index}, len: {len(split_sentence)}")
+                            # print(f"word: {word}, index: {index}, len: {len(split_sentence)}")
                             comma = ""
                             #  if last word in the sentence, get punctuation then process word without the attached punctuation
                             if index == len(split_sentence) - 1 :

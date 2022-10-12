@@ -5,6 +5,7 @@
   - streamlit
   - portaudio
   - pyaudio
+  - streamlit
   
   
 ### CLI

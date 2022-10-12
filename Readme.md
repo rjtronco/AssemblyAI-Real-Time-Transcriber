@@ -82,6 +82,8 @@ Run `streamlit run streamlit_realtime.py`
 <img src="https://github.com/rjtronco/AssemblyAI-Real-Time-Transcriber/blob/main/rts_webUI.png" width="800px" margin-left="-5px">
 <br>
 
+You can also run the `audio_file_transcriber.py` for audio file transcribing. 
+
 
 
 Note: `CFLAGS="-I/opt/homebrew/include -L/opt/homebrew/lib" python3 -m pip install pyaudio` to install on mac

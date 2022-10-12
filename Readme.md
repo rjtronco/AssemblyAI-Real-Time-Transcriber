@@ -51,16 +51,18 @@ CLI
 
 Run `working_rts.py` in cli, then speak to your mic
 
-[<img src="https://github.com/rjtronco/AssemblyAI-Real-Time-Transcriber/blob/main/rts_cli.png" width="800px" margin-left="-5px">]
+<img src="https://github.com/rjtronco/AssemblyAI-Real-Time-Transcriber/blob/main/rts_cli.png" width="800px" margin-left="-5px">
 <br>
 
 
 
 WebUI
 
+[Streamlit](https://streamlit.io/) is an open source app framework in Python language.
+
 Run `streamlit run streamlit_realtime.py`
 
-[<img src="https://github.com/rjtronco/AssemblyAI-Real-Time-Transcriber/blob/main/rts_webUI.png" width="800px" margin-left="-5px">]
+<img src="https://github.com/rjtronco/AssemblyAI-Real-Time-Transcriber/blob/main/rts_webUI.png" width="800px" margin-left="-5px">
 <br>
 
 

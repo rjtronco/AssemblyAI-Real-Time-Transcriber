@@ -1,4 +1,5 @@
 
+# Assembly AI Real Time Speech to Text Transcriber
   
 
 Go to `/Speech-to-Text` directory. Run `working_rts.py` in cli, then speak to your mic

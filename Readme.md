@@ -10,7 +10,7 @@
 ### CLI
 Run `working_rts.py` in cli, then speak to your mic
 
-###WebUI
+### WebUI
 Run `streamlit run streamlit_realtime.py`
 
 Note: `CFLAGS="-I/opt/homebrew/include -L/opt/homebrew/lib" python3 -m pip install pyaudio` to install on mac

@@ -45,6 +45,23 @@ async def send_receive():
         print("Sending messages ...")
 ```
  
+ To have a WebUI, we can make use of Streamlit
+```python
+def start_listening():
+	st.session_state['run'] = True
+
+def stop_listening():
+	st.session_state['run'] = False
+
+
+st.title('Get real-time transcription')
+
+start, stop = st.columns(2)
+start.button('Start listening', on_click=start_listening)
+
+stop.button('Stop listening', on_click=stop_listening)
+```
+ 
  ### TESTING
   
 CLI
